@@ -4,11 +4,12 @@
 ## Introduction
 This repository contains the code for replicating results from
 
-* [Sentiment-Based-Masked-Language-Modeling-for-Improving-Sentence-Level-Valence-Arousal-Prediction](https://link.springer.com/article/10.1007/s10489-022-03384-9)
-* Jheng-Long Wu; Wei-Yi Chung
-* Applied Intelligence, 2022
+* [actor Detection Task of Cyberbullying Using the Deep Learning Model](https://link.springer.com/article/10.1007/s10489-022-03384-9)
+* Yu-Hsuan Wu, Sheng-Wei Huang, Wei-Yi Chung, Chen-Chia Yu, and Jheng-Long Wu
+* 2022 IEEE International Conference on Big Data Workshop
+* [Slide](https://github.com/h30306/A-Dynamic-Embedding-Method-for-Passenger-Flow-Estimation/blob/main/Conference_Howard_20210706.pdf)
 
-## Flow Chart
+<!-- ## Flow Chart
 <img src="./flow_chart.jpg" width="100%">
 
 ## Getting Started
@@ -36,4 +37,4 @@ This repository contains the code for replicating results from
 * `notebooks` stores the multilabel regression model and the visulization code
 
 
-
+ -->
