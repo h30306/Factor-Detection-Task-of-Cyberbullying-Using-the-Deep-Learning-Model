@@ -7,7 +7,7 @@ This repository contains the code for replicating results from
 * [actor Detection Task of Cyberbullying Using the Deep Learning Model](https://link.springer.com/article/10.1007/s10489-022-03384-9)
 * Yu-Hsuan Wu, Sheng-Wei Huang, Wei-Yi Chung, Chen-Chia Yu, and Jheng-Long Wu
 * 2022 IEEE International Conference on Big Data Workshop
-* [Slide](https://github.com/h30306/A-Dynamic-Embedding-Method-for-Passenger-Flow-Estimation/blob/main/Conference_Howard_20210706.pdf)
+* [Slide](https://github.com/h30306/Factor-Detection-Task-of-Cyberbullying-Using-the-Deep-Learning-Model/blob/main/BigD809.pdf)
 
 <!-- ## Flow Chart
 <img src="./flow_chart.jpg" width="100%">
